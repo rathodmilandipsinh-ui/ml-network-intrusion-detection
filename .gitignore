@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+# Python cache
+__pycache__/
+*.pyc
+# Large dataset files (download them yourself from the official site)
+data/*.csv
+# Trained model artifacts and generated reports can be re-created with train_model.py
+models/*.joblib
+models/*.json
+reports/*.json
+reports/*.docx
+# Editor / OS files
+.vscode/
+.DS_Store
+data/demo/

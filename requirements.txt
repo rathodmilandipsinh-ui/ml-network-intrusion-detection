@@ -1,0 +1,8 @@
+# Lightweight dependencies only. Minimum versions are the ones the code was tested against or newer.
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+streamlit>=1.30
+plotly>=5.18
+joblib>=1.3
+python-docx>=1.1
